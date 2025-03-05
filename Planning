@@ -1,3 +1,10 @@
 1- Agent : Make an agent that will connect to a websocket and be able to receive instructions from the webapp. Make it portable and windows compatible.
 2- Web: Communication with the connected agents. Be able to generate agents. Handle authentications. Interface that displays the files and actions we can perform.
 3- (to decide)
+
+TECH STACK--
+
+Either :
+React.js, python...
+or
+dotNet
